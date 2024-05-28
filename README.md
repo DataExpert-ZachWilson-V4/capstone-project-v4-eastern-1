@@ -43,5 +43,5 @@ Use visualization tools to create insightful graphs and charts.
 - Visualization of data that clearly communicates findings.
 
 ## Conceptual Data Model
-![alt text](https://github.com/DataExpert-ZachWilson-V4/capstone-project-proposal-v4-eastern-1/blob/main/resources/image.png)
+![alt text](https://github.com/DataExpert-ZachWilson-V4/capstone-project-v4-eastern-1/blob/main/resources/image.png)
 
